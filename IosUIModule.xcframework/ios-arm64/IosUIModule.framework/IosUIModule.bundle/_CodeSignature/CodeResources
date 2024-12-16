@@ -6,63 +6,31 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		cbMqviX0W5yQNNULLQZo0MYSyNc=
+		nxC4BahbDfA2YfU1AZJYszkpyVs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5iexut2BlaXC9ouqWPdnFyo460s=
+		hI3ztxrl8WGecHwtSDQ3/tiKab0=
 		</data>
 		<key>LevelPickerCell.nib</key>
 		<data>
-		fr5SteLhJyouSqvFtlC03lD1sek=
+		fujSMsO3ne9glyn1rqsTdcJQcxI=
 		</data>
-		<key>Rubik-Medium.ttf</key>
+		<key>UIModuleMain.storyboardc/BuildingViewController.nib</key>
 		<data>
-		yUOhIOM3O0QAQih4TP4J5uW3NNs=
-		</data>
-		<key>Rubik-Regular.ttf</key>
-		<data>
-		aIwMvEPWPE9jy5lwGP6ImRWp3Hs=
-		</data>
-		<key>Rubik-SemiBold.ttf</key>
-		<data>
-		oTAUqKABdYEDaDaiVGc8EuepjcI=
-		</data>
-		<key>UIModuleMain.storyboardc/1Eu-rt-4t2-view-IXx-ZD-ilU.nib</key>
-		<data>
-		HzRaGmAMdBBwJU5ykMa6yP6pbRI=
-		</data>
-		<key>UIModuleMain.storyboardc/1XV-Hl-wfb-view-UZ2-8E-XV6.nib</key>
-		<data>
-		1R71nOukqkvwBGxf0cY6+lusQ2g=
-		</data>
-		<key>UIModuleMain.storyboardc/4iw-pB-xef-view-8ez-1F-EPm.nib</key>
-		<data>
-		yx/InEClL7fOS7935/DGDHEV7dY=
-		</data>
-		<key>UIModuleMain.storyboardc/7bB-a0-8Wh-view-XQa-5M-47f.nib</key>
-		<data>
-		IPVBXX8lCFHK3VQSSljByu6A0r0=
-		</data>
-		<key>UIModuleMain.storyboardc/8Aa-AX-vfx-view-DQb-fP-z9p.nib</key>
-		<data>
-		k7NxDUtP7G8X3/rm7jQzYLWLgpU=
-		</data>
-		<key>UIModuleMain.storyboardc/BuildingsVC.nib</key>
-		<data>
-		rSZBT7sLvv4f42OC8O3rbWEOl94=
+		2krMon+12ji19M1SwnX5tddWV+k=
 		</data>
 		<key>UIModuleMain.storyboardc/DataDownloadViewController.nib</key>
 		<data>
 		FyPGa/UekwDJO8GA1JewfOQHUD4=
 		</data>
-		<key>UIModuleMain.storyboardc/FilterVC.nib</key>
+		<key>UIModuleMain.storyboardc/FilterViewController.nib</key>
 		<data>
-		tAoRzrlnNDlv/cTPpZZANI/ClV0=
+		u8tvRK0uRSh/HIJgM2cwGCo4BIw=
 		</data>
-		<key>UIModuleMain.storyboardc/HelpVC.nib</key>
+		<key>UIModuleMain.storyboardc/G0r-xh-wOM-view-iGJ-j8-ZKT.nib</key>
 		<data>
-		tq14L/hAnQe4gscNXIUKHLArAhQ=
+		nz9vZdag/jQk7M9/SdYV0SEjb4Y=
 		</data>
 		<key>UIModuleMain.storyboardc/HomeViewController.nib</key>
 		<data>
@@ -70,91 +38,47 @@
 		</data>
 		<key>UIModuleMain.storyboardc/Info.plist</key>
 		<data>
-		t//80Xm0HG+oMxLeXD4bKoQbCPk=
-		</data>
-		<key>UIModuleMain.storyboardc/LocationAlertVC.nib</key>
-		<data>
-		ICJxOa/1UFs72AWnNznAXXsSa+w=
-		</data>
-		<key>UIModuleMain.storyboardc/MainAlertVC.nib</key>
-		<data>
-		fipRTSHyx5sAICtkjgR/1MybgyE=
-		</data>
-		<key>UIModuleMain.storyboardc/NavigationAlertVC.nib</key>
-		<data>
-		xWrUxeJYvAnAvZXvM9x9D6GUtoU=
+		dyj7eZlOdS+yG2EUnhluR0jLmF4=
 		</data>
 		<key>UIModuleMain.storyboardc/NavigationViewController.nib</key>
 		<data>
 		KTUR9uTU1kY3E3Uqakb/lzdd6nA=
 		</data>
-		<key>UIModuleMain.storyboardc/OutOfCampusVC.nib</key>
-		<data>
-		PscKTAjtGuDdFw6Niitc75XNA/I=
-		</data>
-		<key>UIModuleMain.storyboardc/PJa-EP-Qr6-view-iMJ-Ge-VLu.nib</key>
-		<data>
-		m8BfpzIH8KtM2VCT3eE6ogq+wTc=
-		</data>
-		<key>UIModuleMain.storyboardc/ParkingAlertVC.nib</key>
-		<data>
-		g1+oDVxIgTMnOOCYgV8PqRWK2Ow=
-		</data>
 		<key>UIModuleMain.storyboardc/PoiDetailsViewController.nib</key>
 		<data>
 		mqKmFakUCDUP4vZ/0Ruj+0txLQQ=
 		</data>
-		<key>UIModuleMain.storyboardc/StaffLoginVC.nib</key>
-		<data>
-		oj4DJoG6rR5uAnsdrdbW3wdPb3c=
-		</data>
-		<key>UIModuleMain.storyboardc/ThirdPartyVC.nib</key>
-		<data>
-		uDJQH/hfqMMYP6IxlDm0krF59as=
-		</data>
 		<key>UIModuleMain.storyboardc/UINavigationController-JQz-T2-HSo.nib</key>
 		<data>
-		UDIiOzkFd6KD7JTHN37nBbWqXeM=
-		</data>
-		<key>UIModuleMain.storyboardc/X32-Zo-UQg-view-4HM-nl-cDo.nib</key>
-		<data>
-		Y82tKJEFrXJKTdtLA5kyT08O6Yg=
+		0l/s1vzlwxD0fMFHp3tMpo91GOE=
 		</data>
 		<key>UIModuleMain.storyboardc/YJx-hf-3j7-view-3KJ-fb-rx2.nib</key>
 		<data>
-		IkBeshVLtZQhtv5WjEAUnJmMUqU=
+		dpFX+SjxPfqGchx/eOn7iBhiPag=
 		</data>
 		<key>UIModuleMain.storyboardc/b4O-aj-UWD-view-n3a-HD-ib0.nib</key>
 		<data>
-		wmced/ydDhNf+6PN9QSy3EGHa7Q=
+		cH4XY0q4Qy4Isz5OIYSZuEJE0jk=
 		</data>
-		<key>UIModuleMain.storyboardc/jWl-EB-Ncj-view-I4N-rP-g0G.nib</key>
+		<key>UIModuleMain.storyboardc/nrv-os-Ev7-view-xJO-FZ-Vdv.nib</key>
 		<data>
-		2qOnk6TQZV/x7uAPenWD+uykAu0=
-		</data>
-		<key>UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
-		<data>
-		yk1UmpX/jgCoZJul913s2PeaGz8=
+		PXueN9ewfIw63NRKgSvWGV7Qic4=
 		</data>
 		<key>UIModuleMain.storyboardc/oLJ-n1-XTb-view-XIu-1W-QnM.nib</key>
 		<data>
-		9wlzLFYkLr7gKU3PI4hk//stMZU=
+		hto0YWd7csO6yj5NzG3Cy+JOSx8=
 		</data>
 		<key>UIModuleMain.storyboardc/oQR-Cc-wRQ-view-K1u-3a-cbl.nib</key>
 		<data>
-		6bwpmOf+cMShLH+fRSADKTB6/HM=
-		</data>
-		<key>UIModuleMain.storyboardc/omB-K5-HDs-view-lpn-JH-WNz.nib</key>
-		<data>
-		h3FNeMMvLav2SbjhusqmNXqrrfw=
+		9ze98nJ8ZQEiBFPqGCO3XYwDrBE=
 		</data>
 		<key>en_localization.json</key>
 		<data>
-		T7yGgXnVbhA7MdwV2J3OioTS0hs=
+		pZ5w3dJi5hfwmU/LgkiD/MX+c14=
 		</data>
 		<key>es_localization.json</key>
 		<data>
-		w4nijKv3ugzcQJgxQsUpUsGPyiM=
+		Xv/rI475c9/GBMFINkfkZb7FNBU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -163,77 +87,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxA7Y3rC226XrxvNKOS5rGme77SwOSUkUyT7KtLq16M=
+			FAhByPVUJQsNCffFkiNHuoQP0gh8mFtXbXRZxCJd2AI=
 			</data>
 		</dict>
 		<key>LevelPickerCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CH6N22SZ6e2yYy5nhhDhjRIDXFNN8xGDnVwtcS1Gxck=
+			fV6nBdV4sISp4OJS/TiYB1epDNOW2qazm8a/ywvp91Y=
 			</data>
 		</dict>
-		<key>Rubik-Medium.ttf</key>
+		<key>UIModuleMain.storyboardc/BuildingViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7oPJvLwF5qWRbihDeGk59DBbYobx2qqrh0sdBvs/c7Y=
-			</data>
-		</dict>
-		<key>Rubik-Regular.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DJPvJhPSIHMHqOkc62cZ4MbjE8EOWIYL2soCqEm3K5c=
-			</data>
-		</dict>
-		<key>Rubik-SemiBold.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NPEfVJqCX16/Y3o8nvIm/zPZey+UpQXciY2vtkN2rxM=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/1Eu-rt-4t2-view-IXx-ZD-ilU.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nbN/27sySJQDeGIJqWLpxAGCGzl/REaYn/8wBS3GhZ8=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/1XV-Hl-wfb-view-UZ2-8E-XV6.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aEdAcn4Nby8dSVD8rkpdgJGPYMrybG6ZM//fT5ZAM2I=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/4iw-pB-xef-view-8ez-1F-EPm.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			50L76AsvzbNGNgO5T7svgkHPdlE+VnJri/YbwPjZ69E=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/7bB-a0-8Wh-view-XQa-5M-47f.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sz7eKSeTdXa9lzEjC95/5zirDOSFaKDnB+V7k7jem38=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/8Aa-AX-vfx-view-DQb-fP-z9p.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WiDONcY62bB5qBLuY6W61JHrkYB4ADwHhFcGN/QPanE=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/BuildingsVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GNcTDAab64Ya4pHiT4+8/IOD52H0sxvS4iYCXzM/O+A=
+			Q9ditQE/OIJ/h6+CboUBDPydzqEBIKsYAM/K2nIUWDI=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/DataDownloadViewController.nib</key>
@@ -243,18 +111,18 @@
 			Ve1yHguvoRIujsXZjV2H5IuS3ma9gJOUAjBX5+kOYzc=
 			</data>
 		</dict>
-		<key>UIModuleMain.storyboardc/FilterVC.nib</key>
+		<key>UIModuleMain.storyboardc/FilterViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Rg9wE+mTgdjLmtw6XseVpzxbEn+amaB8wjy5m/AucU=
+			dJAa0xnlUGwxY+E/7xGtu7C+CiA+WTTRw1z2adYxRRk=
 			</data>
 		</dict>
-		<key>UIModuleMain.storyboardc/HelpVC.nib</key>
+		<key>UIModuleMain.storyboardc/G0r-xh-wOM-view-iGJ-j8-ZKT.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WgG/zTiB/Gpkr5Q0jjLQR34q5PadmAAOcT0ggi/5zLI=
+			IlmEan40fa+BM2LcDu84B3JV9hR59imVhharXKLVuWA=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/HomeViewController.nib</key>
@@ -268,28 +136,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZcFvJhASviIOZhfxCRAMt5kDCalvGlwAQdjatdqfZCc=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/LocationAlertVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QJkZwtt25MKehfvINlVEPXPqzTCEq3ZXEHV+AdaCpQg=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/MainAlertVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sw/dBN5JDQtr2tX53jQvUU5CYNsW5DPVqtUJPquu3cs=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/NavigationAlertVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Wx4FJpUM55dW62Dv6kAsMu2flENRSK2w3eCZPAjyq1s=
+			x4tyTPXYLNwzTZTnzOP904Wgg+LWLC3Pco2Fl3f/Huk=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/NavigationViewController.nib</key>
@@ -299,27 +146,6 @@
 			nteaIEbsZO3RHBXrw4V3oUBKZQBrL1rE1sXolM1umeY=
 			</data>
 		</dict>
-		<key>UIModuleMain.storyboardc/OutOfCampusVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PRIc6hUcqlbijH3fsVpyfa/rjbGvyhlzfJPiCD2Wtfk=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/PJa-EP-Qr6-view-iMJ-Ge-VLu.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IasMCoCgOEXO73DctPtYjdX7anUQ9/eLFjbP2B3xvLk=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/ParkingAlertVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sV1vcHOjTN92ynEGRgGuKvad/3nIdudzfRpVgoyGf2I=
-			</data>
-		</dict>
 		<key>UIModuleMain.storyboardc/PoiDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -327,95 +153,60 @@
 			g0iIChkSpPt9+CfcAJjgP4yIiHN5J2ueK6gQh90Xw7Y=
 			</data>
 		</dict>
-		<key>UIModuleMain.storyboardc/StaffLoginVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aNNf7Z3EYE7uVNZypSQ5SrZlZQQcQQKTThy8fEKQR6M=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/ThirdPartyVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fmO56XXRSFxLH7tnmsmYLTW+ICUKD7ZMGtXKvt/m8fQ=
-			</data>
-		</dict>
 		<key>UIModuleMain.storyboardc/UINavigationController-JQz-T2-HSo.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bATIdl+2+dSgYcjWvr5J03rDbBFSjmbtyhsZnxSLm4A=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/X32-Zo-UQg-view-4HM-nl-cDo.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7R34sVlFfFhI+v4EqjSe5ps5ROUvSbtPc6uQdlzS+5k=
+			ed17FWE7J0btkjBgicg8ptkC5U6TNcKwwdFqTJtxl10=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/YJx-hf-3j7-view-3KJ-fb-rx2.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JK0AYK5Pow67zNaGqaQnpgUJgX08MkOP7ReeSv5Qx6A=
+			CmLzNz3PfC1g+lTLTZ20UA/NUZT8dbFSbWC/MjMBf5I=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/b4O-aj-UWD-view-n3a-HD-ib0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fus15ATKf9/hHWvAIMGaa9tEtRsCIk8RRZvYDV8ijkM=
+			z2x4rQ+PMLiHfNxCCtKSF1JOCVkjgXfli6+izyTCfm8=
 			</data>
 		</dict>
-		<key>UIModuleMain.storyboardc/jWl-EB-Ncj-view-I4N-rP-g0G.nib</key>
+		<key>UIModuleMain.storyboardc/nrv-os-Ev7-view-xJO-FZ-Vdv.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pU1jvbZMNXARYskNITQsdK5r6DdHoKgoLMo5TWwDJNA=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JyIshQHqUxA6iYG4LJij3qnaLugeMrqUe2RraA07RDE=
+			/xSpo/AXGQI3Rn8OmU/lMZO84PmP4Av3rsQ/7JTbqe0=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/oLJ-n1-XTb-view-XIu-1W-QnM.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MNlcxGMWAHeoh6Ik67StEXeLuAq4MErvMeXrV/JC+X0=
+			P6CVOymND02Ex6yela6kxAi+FUBncOJDWP6W/Uvvb7k=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/oQR-Cc-wRQ-view-K1u-3a-cbl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a5IT+EnjADfViZe0/+jrWmo0+FfE+Mn/oRpvB3UlyG8=
-			</data>
-		</dict>
-		<key>UIModuleMain.storyboardc/omB-K5-HDs-view-lpn-JH-WNz.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			odbvn+az8qEWgED9o5woWUsbGIdMv67JLiuMN5v5ZoA=
+			pbX1TnVNOhtNKkwHU7+53mnnYKF12YPcx5G1qOMCx1E=
 			</data>
 		</dict>
 		<key>en_localization.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6TVPWX7pKeKsTvIV210TYdo4xdKxGkAPI2a4yK+wNc=
+			FbGLXP5aNhpAx34GK7F6GXH4cXP4zdRKhQwk5d2WAcM=
 			</data>
 		</dict>
 		<key>es_localization.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FJM9mJMfXfvWPNFpKxHbaKHc1pwtrOQuZl0uj8BIEKs=
+			5njtK4MB/T/cyTJb3Axp5iAjTKAG+HyRX+Dp6gwiu48=
 			</data>
 		</dict>
 	</dict>

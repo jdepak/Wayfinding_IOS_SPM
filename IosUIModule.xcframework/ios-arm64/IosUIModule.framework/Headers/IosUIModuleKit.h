@@ -8,20 +8,19 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "UIModuleSettings.h"
+#import "SpreoUIModuleSettings.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-////////////////////////////////////////////////////////////////////////////////////////
-// Use UIModuleSettings class before initializating for customizing UI Module
-//
+@class SpreoUIModuleSettings;
 
+////////////////////////////////////////////////////////////////////////////////////////
+// Use SpreoUIModuleSettings class before initializating for customizing UI Module
+//
 
 @interface IosUIModuleKit : NSObject
 
 +(UIViewController *)initWithApiKey:(NSString *)apiKey;
-+(UIViewController *)initWithApiKey:(NSString *)apiKey settings:(UIModuleSettings *)settings;
-
 
 @end
 
