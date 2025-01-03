@@ -1,6 +1,6 @@
 framework module IosUIModule {
   umbrella header "IosUIModule.h"
-
   export *
+
   module * { export * }
 }

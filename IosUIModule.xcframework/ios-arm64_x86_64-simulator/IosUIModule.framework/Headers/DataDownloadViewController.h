@@ -8,9 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+@class UIModuleSettings;
 
 @interface DataDownloadViewController : UIViewController
 
 + (UINavigationController *)startWithApiKey:(NSString *)apiKey;
++ (UINavigationController *)startWithApiKey:(NSString *)apiKey settings:(UIModuleSettings *)settings;
 
 @end
